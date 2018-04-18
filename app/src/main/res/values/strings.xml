@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Twonky</string>
+
+    <string name="menu_help">Help</string>
+    <string name="menu_about">About &#8230;</string>
+    <string name="menu_exit">Exit</string>
+
+    <string name="helpalert_title">Help</string>
+    <string name="helpalert_message1">THIS IS THE GAME OF TWONKY. IN IT YOU PRETEND TO BE A SPACE EXPLORER WHO HAS
+    LANDED ON A HOSTILE PLANET.\n\n
+    CAPTURED BY THE UNFRIENDLY NATIVES, YOU ARE TOSSED INTO A LARGE PRISON ALONG WITH A FEROCIOUS TWONKY.\n\n
+    A TWONKY IS A HORRIBLE CREATURE WHO WILL CATCH YOU AND ABSORB YOUR BODY INTO HIS IF HE GETS CLOSER THAN TWO UNITS
+    AWAY FROM YOU.</string>
+    <string name="helpalert_message2">IN THE INTEREST OF FAIR PLAY, YOU ARE GIVEN A ZAP GUN THAT WILL TEMPORARILY
+    CHASE THE TWONKY AWAY.\n\n
+    ALSO, IF YOU CAN MAKE IT TO THE SPECIAL OBJECTIVE SQUARE BEFORE BEING ABSORBED, YOU WILL BE SET FREE.\n\n
+    AFTER YOU MOVE, YOU WILL BE INFORMED OF YOUR DISTANCE FROM THE OBJECTIVE SQUARE AS WELL AS FROM THE TWONKY.</string>
+    <string name="helpalert_message3">THERE ARE SEVERAL OTHER OBJECTS IN THE MAZE WHICH ARE OF INTEREST\n\n
+    THERE ARE TWENTY RELOCATION SQUARES. THESE SQUARES SEND YOU TO SOME OTHER PLACE IN THE MAZE.\n\n
+    THERE ARE TWENTY IMPREGNABLE SQUARES WHICH YOU CANNOT ENTER.\n\n
+    THERE IS ONE SUPER DEADLY AUTOMATIC KILL SQUARE WHICH ENDS YOUR ORDEAL QUICKLY AND PAINLESSLY.\n\n
+    THAT\'S IT &#8230; TRY TO ENJOY IT!
+    </string>
+
+    <string name="helpalert_button_PLAY">Play</string>
+    <string name="helpalert_button_MORE">More</string>
+
+    <string name="aboutalert_title">About</string>
+    <string name="aboutalert_message">Twonky is a simple text game. It\'s based on code ported from an early
+    terminal-style computer, the DEC-PDP-8, written in BASIC and ported to the Apple II.\n\nby:
+    Mark Capella\nmarkcapella@twcny.rr.com\nirc nick:capella</string>
+    <string name="aboutalert_button_OK">OK</string>
+
+    <string name="logTextTitle">.</string>
+    <string name="cmdTextTitle">Enter a command and press Done &#8230;</string>
+
+    <string name="exit_toast">&lt;&lt;&lt;&lt;&lt; schlooooorp &gt;&gt;&gt;&gt;&gt;</string>
+
+</resources>
